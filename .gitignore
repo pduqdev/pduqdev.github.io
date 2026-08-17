@@ -1,0 +1,15 @@
+# Editor folders
+.vscode/
+.idea/
+
+# Python virtual environments (if you ever add Python)
+.venv/
+__pycache__/
+*.pyc
+
+# Node (if you ever add npm)
+node_modules/
+
+# OS / temp files
+.DS_Store
+Thumbs.db
