@@ -1,0 +1,69 @@
+body {
+    background-color: lightgrey;
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    color: darkgreen;
+}
+
+.dark-theme {
+    background-color: #111;
+    color: #eee;
+}
+
+.dark-theme p,
+.dark-theme ul,
+.dark-theme ol,
+.dark-theme li {
+    background-color: transparent;
+    color: #eee;
+}
+
+h1 {
+    color: coral;
+    text-align: center;
+    font-size: 42px;
+    border-bottom: 4px solid coral;
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: white;
+    background-color: steelblue;
+    padding: 10px;
+    border-left: 6px solid goldenrod;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    background-color: white;
+    padding: 15px;
+    border: 1px solid goldenrod;
+}
+
+ol,ul {
+    background-color: white;
+    padding: 20px 20px 20px 40px ;
+    border: 1px solid goldenrod;
+}
+
+li{
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+h3.view-link {
+    text-align:center;
+    color: coral;
+    margin-top:30px;
+    font-size: 28px;
+}
+
+.rounded-img {
+    width: 500px;
+    border-radius: 20px;
+    border: 3px solid darkgreen;
+    display: block;     /* make image a block element */
+    margin: 0 auto;   /* equal left/right margins */
+}
+
